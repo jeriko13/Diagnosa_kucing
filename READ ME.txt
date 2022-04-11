@@ -1,0 +1,57 @@
+Code Candil Kuya						|
+========================================================|
+https://code.candilkuya.com			|
+IG	: instagram.com/candil_kuya			|
+FB	: facebook.com/candilkuyachanel			|
+========================================================|
+========================================================|
+Terima kasih :) :) 					|
+========================================================|
+::::::::::************** CREDIT *************:::::::::::|
+https://github.com/burhanyuswantyo/			|			
+========================================================|
+							|
+===========---//INSTALASI SOURCE CODE\\---==============|
+							|
+-Ekstrak source code					|
+-Jika menggunakan xampp simpan folder ngertimotor	|
+ ke dalam folder htdocs					|
+-Buat database baru dengan nama motor			|
+-import file motor.sql yang ada di folder db 		|
+ ke dalam database yang dibuat tadi			|
+-Buka browser lalu jalankan dengan menuliskan 		|
+ localhost/ngertimotor					|
+							|
+Akun Admin						|
+user: admin						|
+pass: admin						|
+========================================================|
+=============-----/////FAQ ERROR\\\\\-----==============
+
+??. Unknown database ''
+!!. Database belum dibuat atau nama database tidak sama
+>>. Buat database baru atau perbaiki nama database atau
+    sesuaikan pengaturan koneksi database
+
+??. Access denied for user ''
+!!. username atau password akun phpmyadmin tidak sesuai
+>>. sesuaikan koneksi database dengan akun phpmyadmin
+
+??. Uncaught Error:Call to undefined function mysql_connect()
+!!. ekstensi mysql tidak tersedia atau sudah tidak di dukung
+>>. Gunakan versi PHP5 atau versi xampp yang lawas (jadul)
+
+??. mysqli::real_connect(): / Warning: mysqli_connect():
+!!. ekstensi mysqli tidak tersedia atau tidak di dukung
+>>. Gunakan versi PHP7 ke atas atau versi Xampp terbaru
+
+??. Tampilan antarmuka tidak muncul atau acak-acakan
+!!. file css / style tidak ditemukan atau belum responsif
+>>. Gunakan internet saat menjalankan-nya atau hapus folder
+    yang membungkus folder utama atau master
+
+
+#NOTE:
+Beberapa solusi penanganan error di atas mungkin saja tidak
+dapat menyelesaikan masalah error dikarenakan beberapa faktor
+lain atau solusi lain.
